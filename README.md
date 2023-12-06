@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-Full Stack Developer with three years of experience specializing in the creation of web applications using advanced technologies, with a particular focus on JavaScript and the React and Next.js frameworks. I am a professional committed to technical excellence and continuous improvement, staying abreast of the latest trends and practices in software development. My focus is on delivering innovative and quality solutions that meet the specific needs of clients and end users. With strong skills in teamwork and effective communication, I am prepared to contribute my knowledge and experience to any project that requires a comprehensive and results-oriented approach in the field of Full Stack development.
+Full Stack Developer with three years of experience specializing in the creation of web applications using advanced technologies, with a particular focus on JavaScript and the React and Next.js frameworks.
+
+I am a professional committed to technical excellence and continuous improvement, staying abreast of the latest trends and practices in software development. My focus is on delivering innovative and quality solutions that meet the specific needs of clients and end users. With strong skills in teamwork and effective communication, I am prepared to contribute my knowledge and experience to any project that requires a comprehensive and results-oriented approach in the field of Full Stack development.
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [carriolidante@gmail.com](mailto:carriolidante@gmail.com)

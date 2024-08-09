@@ -10,7 +10,7 @@ I am a professional committed to technical excellence and continuous improvement
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [carriolidante@gmail.com](mailto:carriolidante@gmail.com)
-* 🚀  I'm currently working on [Quilsoft](http://quilsoft.com)
+* 🚀  I'm currently working at [Quilsoft](http://quilsoft.com)
 
 ### Skills
 

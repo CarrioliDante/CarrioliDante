@@ -1,121 +1,100 @@
 
-# Dante Carrioli
+<h1 align="center">Dante Carrioli</h1>
 
-Full-Stack Engineer focused on scalable web platforms, AI-augmented development workflows, and modern product architecture.
+<p align="center">
+  Full-Stack Engineer • AI Workflows • System Design
+</p>
 
-I build high-performance applications using TypeScript, React, Next.js, Node.js, and cloud-native tooling, with experience designing enterprise systems, biometric/KYC integrations, and developer productivity workflows powered by AI.
+<p align="center">
+Building scalable platforms, modern SaaS products, and AI-augmented engineering workflows.
+</p>
 
-Currently working on:
-- Scalable education platforms
-- AI-assisted engineering systems
+---
+
+## About
+
+Full-Stack Engineer focused on modern web architecture, developer experience, and high-performance applications.
+
+I work primarily with TypeScript, React, Next.js, Node.js, and cloud-native tooling, with experience building scalable platforms, enterprise systems, biometric/KYC integrations, and modern frontend architectures.
+
+I’m especially interested in:
+- AI-assisted development workflows
+- System design & microservices
+- Product engineering
+- Developer tooling
+- UX-focused applications
+- Scalable backend architecture
+
+---
+
+## Current Focus
+
+- Building modern SaaS platforms
+- AI-native engineering workflows
 - Microservice architectures
-- Modern UX-focused SaaS products
-- Developer tooling and automation
+- High-performance frontend systems
+- Developer experience & automation
+- Product-oriented system architecture
 
 ---
 
 ## Tech Stack
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-- shadcn/ui
-- TanStack Query
-- Zustand
-- Framer Motion
-
-### Backend
-- Node.js
-- NestJS
-- Express
-- .NET / ASP.NET
-- REST APIs
-- Microservices
-- Event-driven architecture
-
-### Databases
-- PostgreSQL
-- Prisma
-- Drizzle ORM
-- MongoDB
-- Redis
-
-### DevOps & Infrastructure
-- Docker
-- Docker Compose
-- Linux / WSL
-- Nginx
-- CI/CD
-- GitHub Actions
-- NATS
-- Cloud architecture
-
-### AI & Engineering Workflows
-- Claude Code
-- GitHub Copilot
-- Multi-agent workflows
-- Prompt engineering
-- AI-assisted architecture design
-- AI-powered developer experience
-- LLM integration workflows
-
-### Design & Product
-- Figma
-- Product architecture
-- UX systems
-- Design systems
-- SaaS product thinking
+```ts
+Frontend   → React • Next.js • TypeScript • TailwindCSS
+State      → TanStack Query • Zustand
+Backend    → Node.js • NestJS • Express • .NET
+Database   → PostgreSQL • Prisma • Drizzle • MongoDB
+Infra      → Docker • Redis • NATS • CI/CD • Linux
+AI Stack   → Claude Code • GitHub Copilot • Multi-agent workflows
+Design     → Figma • Design Systems • Product UX
+````
 
 ---
 
-## Engineering Philosophy
+## Engineering
 
-I care deeply about:
-- Clean architecture
-- Scalable systems
-- Developer experience
-- Product performance
-- Maintainable codebases
-- UI/UX quality
-- Fast iteration workflows
+I enjoy building systems that are:
 
-I enjoy building systems that feel both technically solid and pleasant to use.
+* scalable
+* maintainable
+* performant
+* developer-friendly
+* visually polished
 
----
-
-## Featured Areas
-
-### Enterprise Systems
-Experience working on high-traffic platforms, authentication flows, educational systems, and biometric/KYC integrations.
-
-### AI-Augmented Development
-Building workflows that combine modern engineering practices with AI tooling to accelerate development, architecture, and product iteration.
-
-### System Design
-Interested in distributed systems, microservices, event-driven architecture, and scalable frontend/backend patterns.
+I care deeply about clean architecture, frontend performance, DX, and creating products that feel fast, intuitive, and reliable.
 
 ---
 
-## Current Interests
+## Featured Interests
 
-- Artificial Intelligence
-- System Design
-- Developer Experience (DX)
-- Modern SaaS Architecture
-- Design Engineering
-- Product Strategy
-- High-performance UI systems
+* Artificial Intelligence
+* System Design
+* Microservices
+* Developer Experience (DX)
+* Product Engineering
+* Modern UI Architecture
+* Scalable SaaS Platforms
+
+---
+
+## Currently Building
+
+### Scola
+
+Modern school management platform focused on performance, UX, scalability, and modular architecture.
+
+### AI Workflows
+
+Exploring multi-agent development systems, AI-assisted architecture, and developer productivity tooling.
 
 ---
 
 ## Connect
 
-- GitHub: https://github.com/carriolidante
-- LinkedIn: https://linkedin.com/in/dantecarrioli
-- Email: carriolidante@gmail.com
+<p align="left">
+  <a href="https://github.com/carriolidante">GitHub</a> •
+  <a href="https://linkedin.com/in/dantecarrioli">LinkedIn</a> •
+  <a href="mailto:carriolidante@gmail.com">Email</a>
+</p>
 
----
-
-> “Build systems that scale technically, visually, and operationally.”

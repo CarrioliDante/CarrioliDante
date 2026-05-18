@@ -1,4 +1,4 @@
-```md
+
 # Dante Carrioli
 
 Full-Stack Engineer focused on scalable web platforms, AI-augmented development workflows, and modern product architecture.
@@ -117,4 +117,5 @@ Interested in distributed systems, microservices, event-driven architecture, and
 - Email: carriolidante@gmail.com
 
 ---
-```
+
+> “Build systems that scale technically, visually, and operationally.”
